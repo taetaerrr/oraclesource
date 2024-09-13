@@ -1785,6 +1785,90 @@ VALUES (BOARD_SEQ.NEXTVAL,'HONG','1111','게시판','게시글 작성');
 SELECT * FROM BOARD;
 
 
+-- PL/SQL : 데이터베이스 관련 특정 작업을 수행하는 명령어 / 선언문을 모아둔 블럭
+-- SQL + 프로그래밍
+
+-- 블록
+-- DELCARE
+--	 변수 선언
+-- BEGIN
+--	   조건문,반복문,SELECT,DML,함수
+-- EXCEPTION
+--	오류처리
+-- END;
+
+SET SERVEROUTPUT ON;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
